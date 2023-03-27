@@ -1,7 +1,8 @@
-# Energy-Demand-electricity-price-Forecasting
+# Energy-Demand_electricity_price-Forecasting
 
+## Project and data set explanations:
 
-## Data set explanations:
+This project deals with a time series forecasting problem where two distinct datasets of energy and weather data are used. The energy consumption and weather data from various cities in Spain are combined to create a multivariate time series forecasting problem. The energy dataset contains features related to the generation of energy from different sources like fossil fuels, wind, and coal. On the other hand, the weather dataset contains features related to various weather metrics such as temperature, humidity, pressure, wind speed, etc.
 
 The dataset includes a four-year record of weather data <a href="https://openweathermap.org/api">https://openweathermap.org/api</a> 
 electrical consumption, pricing, and generation data for Spain <a href="https://transparency.entsoe.eu/dashboard/show">ENTOSE website</a> . The public ENTSOE portal was used to retrieve the consumption and generation data, while 
